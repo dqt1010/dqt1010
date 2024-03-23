@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**dqt1010/dqt1010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 😉I am **Qita Dai**, 
 
-Here are some ideas to get you started:
+-🌏I'm from **China**. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-🎉I am good at 
+**HTML**,**Python**,**HTML**,**JavaScript**, and **MySQL**. 
+
+-🔢Lucky number: **56**. 
+
+-😏Hobbies: 
+**guitar**, **sketching**, **basketball**, **table tennis**, **Rubik's Cube**
+
+-📫 How to reach me:
+QQ:2277275100/1532486245
+email:daiqitao1010@qq.com
